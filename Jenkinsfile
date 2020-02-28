@@ -7,7 +7,7 @@ pipeline {
       }
     }
 
-    stage('') {
+    stage('Test2') {
       steps {
         echo 'test'
       }
